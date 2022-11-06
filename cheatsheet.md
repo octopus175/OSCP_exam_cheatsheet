@@ -137,7 +137,7 @@ add Header **X-Forwarded-For** to bypass IP restriction
 - Here is a pretty good mindmap
 	- https://guide.offsecnewbie.com/web
 - check certificate for alt name
-- look for default credentials and try command credentials (something it requires guessing)
+- look for default credentials and try common credentials (something it requires guessing)
 
 ## smb
 
